@@ -1,0 +1,36 @@
+^1==================================================
+^7Use ^3!item ^7followed by the exact name of the weapon
+or item you want to receive it
+
+^4Human Items:^7
+rifle
+psaw
+lasgun
+mdriver
+lcannon
+prfile
+chaingun
+
+battpack
+jetpack
+helmet
+larmor
+bsuit
+
+^1Alien Items:^7
+level0
+level1
+level2
+level2_upg
+level3
+level3_upg
+level4
+abuilder
+abuilder_upg
+
+^3Other Items:^7
+mgturret
+hive
+teslagen
+lockblob
+^1==================================================

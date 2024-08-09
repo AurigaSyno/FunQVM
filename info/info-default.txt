@@ -1,0 +1,11 @@
+^3==================================================
+^7Welcome to FuN server
+All weapons are available to everyone, including weapons
+that belong to the other team
+
+You can pounce as a human, or be a luci rant
+
+These additional ^3!info ^7files will explain how:
+
+^3item class speed gravity
+^3==================================================

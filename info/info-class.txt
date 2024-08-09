@@ -1,0 +1,16 @@
+^1==================================================
+^7Use ^3!class ^7followed by the exact name of the class
+you want to become
+
+^3Classes chart:^7
+level0
+level1
+level2
+level2upg
+level3
+level3upg
+level4
+builder
+builderupg
+human_base
+^1==================================================
